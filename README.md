@@ -4,6 +4,8 @@ End-to-end data cleaning and sales analysis project built using Microsoft Excel.
 
 ## Overview
 This project demonstrates data cleaning, structuring, and dashboard creation using Excel.
+**Rows Before Cleaning:** 32  
+**Rows After Cleaning:** 28  
 
 ## Key Insights
 - West region generated the highest revenue (₹5,950.20).
@@ -15,7 +17,7 @@ This project demonstrates data cleaning, structuring, and dashboard creation usi
 - Pivot Tables
 - Data Validation
 - TRIM, IFERROR, Find & Replace
-- 
+
 ## Dashboard Preview
 
 ![Dashboard](Dashboard.png)
