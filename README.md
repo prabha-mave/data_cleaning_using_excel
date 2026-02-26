@@ -22,4 +22,5 @@ Skills Demonstrated: Data Cleaning, Data Validation, Pivot Tables, Dashboard Des
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
+
