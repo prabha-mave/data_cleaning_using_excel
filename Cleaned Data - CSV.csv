@@ -1,0 +1,30 @@
+﻿Date,ID,Name,Region,Rating,Product,Quantity,Price Per Unit,Sales
+31-01-2021,1,John Smith,North,Good,Magic Wand,10,20.00,200.00
+28-02-2021,2,Jane Doe,East,Excellent,Unicorn Horn,15,10.00,150.00
+31-03-2021,3,Mike Tyson,West,Poor,Boxing Gloves,0,,0.00
+30-04-2021,4,Anna Belle,South,Average,Fairy Dust,25,10.00,250.00
+31-05-2021,5,Chris P. Bacon,East,Good,Bacon Scented Candle,30,16.67,500.10
+30-06-2021,6,Peter Parker,TBA,Excellent,Web Shooter,0,,0.00
+31-07-2021,7,Mary Jane,West,Poor,Potent Potion,35,10.00,350.00
+31-08-2021,8,Bruce Wayne,South,Average,Bat Signal,40,15.00,600.00
+30-09-2021,9,Clark Kent,East,Good,Glasses with X-ray Vision,45,12.22,549.90
+31-10-2021,10,Diana Prince,North,Excellent,Lasso of Truth,50,14.00,700.00
+30-11-2021,11,Tony Stark,West,Poor,Iron Man Suit,5,160.00,800.00
+31-12-2021,12,Steve Rogers,South,Average,Captain America Shield,20,45.00,900.00
+31-01-2022,13,Natasha Romanoff,East,Good,Black Widow's Bite,0,,0.00
+28-02-2022,14,Bruce Banner,TBA,Excellent,Gamma Radiation Serum,30,36.67,"1,100.10"
+31-03-2022,15,Nick Fury,West,Poor,Eye Patch,35,34.29,"1,200.15"
+30-04-2022,16,Phil Coulson,TBA,Average,Agent ID Card,0,,0.00
+31-05-2022,17,Peggy Carter,East,Good,Vintage Pistol,40,35.00,"1,400.00"
+30-06-2022,18,Howard Stark,North,Excellent,Arc Reactor,45,33.33,"1,499.85"
+31-07-2022,19,Hank Pym,West,Poor,Ant-Man Suit,50,32.00,"1,600.00"
+31-08-2022,20,Janet van Dyne,South,Average,Wasp's Wings,55,30.91,"1,700.05"
+30-09-2022,21,Kurt Busiek,East,Good,Comic Book,60,30.00,"1,800.00"
+31-10-2022,22,George Perez,North,Excellent,Drawing Pad,0,,0.00
+30-11-2022,23,Roger Stern,West,Poor,Notepads,65,30.77,"2,000.05"
+31-12-2022,24,Tom DeFalco,South,Average,Pen Set,70,30.00,"2,100.00"
+31-01-2023,25,Loki Laufeyson,Asgard,Mischief,Trickster's Hat,75,29.33,"2,199.75"
+28-02-2023,26,Thor Odinson,Asgard,Worthy,Mjolnir,80,28.75,"2,300.00"
+31-03-2023,27,Natasha Romanoff,East,Spy,Spy Kit,0,,0.00
+30-04-2023,28,Steve Rogers,South,Leader,Leadership Manual,85,29.41,"2,499.85"
+Total,,,,,,965,10.00,28

@@ -1,0 +1,32 @@
+﻿Date,ID,Name,Region,Rating,Product,Quantity,Price Per Unit
+31-01-2021 00:00,1,John Smith   ,North,Good,Magic Wand,10,$20.00 
+28-02-2021 00:00,2,Jane Doe,East,Excelent,Unicorn Horn,15,$10.00 
+31-03-2021 00:00,3,Mike   Tyson,West,Poor,Boxing Gloves,0,inf
+30-04-2021 00:00,4,Anna   Belle,South,Average,Fairy Dust,25,$10.00 
+31-05-2021 00:00,5,Chris P. Bacon,East,Good,Bacon Scented Candle,30,$16.67 
+30-06-2021 00:00,6,Peter   Parker,,Excelent,Web Shooter,0,inf
+31-07-2021 00:00,7,Mary Jane,West,Poor,Potent Potion,35,$10.00 
+31-08-2021 00:00,8,Bruce Wayne,South,Average,Bat Signal,40,$15.00 
+30-09-2021 00:00,9,Clark Kent,East,Good,Glasses with X-ray Vision,45,$12.22 
+31-10-2021 00:00,10,Diana Prince,North,Excelent,Lasso of Truth,50,$14.00 
+30-11-2021 00:00,11,Tony Stark,West,Poor,Iron Man Suit,5,$160.00 
+31-12-2021 00:00,12,Steve Rogers,South,Average,Captain America Shield,20,$45.00 
+31-01-2022 00:00,13,Natasha Romanoff,East,Good,Black Widow's Bite,0,inf
+28-02-2022 00:00,14,Bruce Banner,,Excelent,Gamma Radiation Serum,30,$36.67 
+30-04-2021 00:00,4,Anna   Belle,South,Average,Fairy Dust,25,$10.00 
+31-05-2021 00:00,5,Chris P. Bacon,East,Good,Bacon Scented Candle,30,$16.67 
+30-06-2021 00:00,6,Peter   Parker,,Excelent,Web Shooter,0,inf
+31-03-2022 00:00,15,Nick Fury,West,Poor,Eye Patch,35,$34.29 
+30-04-2022 00:00,16,Phil Coulson,,Average,Agent ID Card,0,inf
+31-05-2022 00:00,17,Peggy Carter,East,Good,Vintage Pistol,40,$35.00 
+30-06-2022 00:00,18,Howard Stark,North,Excelent,Arc Reactor,45,$33.33 
+31-07-2022 00:00,19,Hank Pym,West,Poor,Ant-Man Suit,50,$32.00 
+31-08-2022 00:00,20,Janet van Dyne,South,Average,Wasp's Wings,55,$30.91 
+30-09-2022 00:00,21,Kurt Busiek,East,Good,Comic Book,60,$30.00 
+31-10-2022 00:00,22,George Perez,North,Excelent,Drawing Pad,0,inf
+30-11-2022 00:00,23,Roger Stern,West,Poor,Notepads,65,$30.77 
+31-12-2022 00:00,24,Tom DeFalco,South,Average,Pen Set,70,$30.00 
+31-01-2023 00:00,25,Loki Laufeyson,Asgard,Mischief,Trickster's Hat,75,$29.33 
+28-02-2023 00:00,26,Thor Odinson,Asgard,Worthy,Mjolnir,80,$28.75 
+31-03-2023 00:00,27,Natasha Romanoff,East,Spy,Spy Kit,0,inf
+30-04-2023 00:00,28,Steve Rogers,South,Leader,Leadership Manual,85,$29.41 
