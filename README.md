@@ -7,6 +7,8 @@ This project demonstrates data cleaning, structuring, and dashboard creation usi
 **Rows Before Cleaning:** 32  
 **Rows After Cleaning:** 28  
 
+Skills Demonstrated: Data Cleaning, Data Validation, Pivot Tables, Dashboard Design
+
 ## Key Insights
 - West region generated the highest revenue (₹5,950.20).
 - Leadership Manual was the top-selling product by quantity.
